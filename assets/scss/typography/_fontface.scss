@@ -1,0 +1,29 @@
+// Cerebri Sans
+@font-face {
+    font-family: "Cerebri Sans";
+    src: local("CerebriSans-Regular"), url("assets/fonts/CerebriSans-Regular.woff2") format("woff2"), url("assets/fonts/CerebriSans-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+}
+@font-face {
+    font-family: "Cerebri Sans";
+    src: local("CerebriSans-Italic"), url("assets/fonts/CerebriSans-Italic.woff2") format("woff2"), url("assets/fonts/CerebriSans-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: fallback;
+}
+@font-face {
+    font-family: "Cerebri Sans";
+    src: local("CerebriSans-ExtraBold"), url("assets/fonts/CerebriSans-ExtraBold.woff2") format("woff2"), url("assets/fonts/CerebriSans-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+}
+@font-face {
+    font-family: "Cerebri Sans";
+    src: local("CerebriSans-ExtraBoldItalic"), url("assets/fonts/CerebriSans-ExtraBoldItalic.woff2") format("woff2"), url("assets/fonts/CerebriSans-BoldItalic.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+    font-display: fallback;
+}

@@ -1,0 +1,16 @@
+@import "fontface";
+
+html {
+	font-family: $font__main;
+	line-height: $font__line-height-body;
+	text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-feature-settings: "ss02" 1;
+	font-kerning: auto;
+}
+
+@import "headings";
+
+@import "copy";
